@@ -1,7 +1,23 @@
 body{
-
-		background: #148555;
+		margin: 0;
+		font-size: 20px;
+		font-style: italic;
 		font-family: "tw cen mt";
 		text-align: center;
-		border: 1px solid red;
+}
+
+
+
+header{
+	background: #3bc2fe;
+	width: 100%;
+	height: 40px;
+}
+
+header span{
+	font-style: normal;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	float: left;
 }
