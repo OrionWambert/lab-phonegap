@@ -7,7 +7,15 @@ body{
 }
 
 
-
+h1,h1 span{
+	color: #3bc2fe;
+	text-transform: uppercase;
+	font-style: normal;
+	font-family: arial;
+}
+h1{
+	color: black;
+}
 header{
 	background: #3bc2fe;
 	width: 100%;
@@ -15,9 +23,24 @@ header{
 }
 
 header span{
+	padding-left: 2%;
+
 	font-style: normal;
 	color: white;
 	font-weight: bold;
 	font-size: 30px;
 	float: left;
+}
+
+a ,button{
+	background: #3bc2fe;
+	padding: 10px;
+	border-radius: 4%;
+	text-decoration: none;
+	color: white;
+	border: 1px solid #3bc2fe;
+}
+
+a:hover,button:hover,a:active,button:active{
+	color: black;
 }

@@ -6,7 +6,7 @@
 </head>
 <body>
 <header>
-		<span>ToolBar</span>
+		<span>Orion WAMBERT</span>
 </header>
 <h1>About Page</h1>
 
