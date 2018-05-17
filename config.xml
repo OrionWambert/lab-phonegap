@@ -24,8 +24,7 @@
      <platform name="ios" />
 
     <!-- icon -->
-    <icon src="res/mipmap-mdpi/ic_launcher.png" />
-
+    
 
     <!-- no permission required -->
     <preference name="permissions" value="none" />
